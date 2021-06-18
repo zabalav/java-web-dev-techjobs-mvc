@@ -8,6 +8,7 @@ td, th {
 
 th {
     text-align: center;
+    vertical-align: top;
 }
 
 td {
